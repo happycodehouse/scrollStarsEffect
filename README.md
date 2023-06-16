@@ -9,5 +9,5 @@ window.addEventListener('scroll', function (event) {
   title.style.transform = `translateY(${scroll / 1.7}px)`;
 })
 ```
-It is possible to create opposing animations with positive and negative values.
+It is possible to create opposing animations with positive and negative values. <br />
 In addition, division was used to adjust the scroll speed of the two star background layout.
