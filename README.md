@@ -1,7 +1,7 @@
 # 💫 Scroll stars effect with JS
 I practiced creating the scroll animation without the plugin first.
 
-### Comments
+### Things to remember
 ```sh
 window.addEventListener('scroll', function (event) {
   let scroll = this.scrollY;
