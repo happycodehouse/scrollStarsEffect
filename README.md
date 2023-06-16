@@ -10,3 +10,4 @@ window.addEventListener('scroll', function (event) {
 })
 ```
 It is possible to create opposing animations with positive and negative values.
+In addition, division was used to adjust the scroll speed of the two star background layout.
